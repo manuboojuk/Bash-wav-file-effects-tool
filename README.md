@@ -1,5 +1,5 @@
 # Bash-wav-file-effects-tool
-A bash tool written in C to apply audio effects to .wav files. Made as a project to learn about bash scripting, C programming and C fileIO, piping, endianness, WAV file formats and audio file formats in general. 
+A bash tool written in C to apply audio effects to .wav files. Made as a project to learn about bash scripting, C programming (fileIO, string manipulations), piping, endianness, WAV file formats and audio file formats in general. 
 
 This works for both single channel and dual channel (stereo) wav files.
 
