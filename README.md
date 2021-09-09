@@ -27,5 +27,5 @@ Examples:
 ## Walkthrough to actually create files with effects applied
 - First compile effects.c using gcc: `gcc effects.c`
 - Then use xxd with the -g1 flag to make a hexdump and pipe it into the program then pipe the output into xxd with the -r flag to revert the hexdump back to a binary and finally pipe the output into a new wav file: `xxd -g1 rain.wav | ./a.out -fin 2000 | xxd -r > rainShortFade.wav`
-- rainShortFade.wav should be the new file created with the specified audio effect applied for the specified time 
+- `rainShortFade.wav` should be the new file created with the specified audio effect applied for the specified time 
 
