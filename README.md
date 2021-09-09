@@ -9,9 +9,9 @@ There are also two six-second, dual channel wav files included in this repo to p
 
 ## Effects description and usage
 There are three effects:
-- Fade-in:      audio fades in from the beginning                                                                 (use '-fin' to apply fade-in)
-- Fade-out:     audio fades out from the end                                                                      (use '-fout' to apply the fade-out)
-- Pan:          audio pans from left audio channel to right audio channel, only works for dual channel audio      (use '-pan' to apply the pan)
+- Fade-in:      audio fades in from the beginning                                                                 (use '`-fin`' to apply fade-in)
+- Fade-out:     audio fades out from the end                                                                      (use '`-fout`' to apply the fade-out)
+- Pan:          audio pans from left audio channel to right audio channel, only works for dual channel audio      (use '`-pan`' to apply the pan)
 
 All effects are applied for a specified duration.
 
